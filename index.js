@@ -34,7 +34,7 @@ function countChar(s, c) {
     return count;
 } console.log(countChar("kkkkjghhk", "k"))//3
 
-function number(num) {
+function number(number) {
     let n1 = 0
     let n2 = 1
     for (let i = 0; i <= number; i++)
